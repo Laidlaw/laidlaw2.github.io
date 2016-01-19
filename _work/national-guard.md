@@ -3,6 +3,8 @@ layout: post
 title:  "Army National Guard"
 date:   2015-11-25 19:23:46 -0600
 categories:
+image:
+  feature: "natl-guard.jpg"
 ---
 
 The most vulnerable project was National Guard’s My Career Timeline. We needed to secure the a four year contract, so this project could not fail. When I took over, the timeline was at a standstill.
