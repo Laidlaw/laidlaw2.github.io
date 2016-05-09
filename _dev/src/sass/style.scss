@@ -291,6 +291,15 @@ pre {
     }
 }
 
+.headshot {
+  height: 160px;
+    margin-top: 6em;
+    clip-path: circle(70px at center 80px);
+    -webkit-clip-path: circle(70px at center 80px);
+    -moz-clip-path: circle(70px at center 80px);
+}
+
+
 .post {
   font-family: "Source Sans Pro";
   font-size: 18px;
